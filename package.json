@@ -1,0 +1,21 @@
+{
+  "name": "itinode",
+  "version": "1.0.0",
+  "description": "Task Two",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "index.js",
+    "dev": "nodemon ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sequelize": "^6.6.2",
+    "tedious": "^11.0.9"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
